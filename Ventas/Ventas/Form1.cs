@@ -19,7 +19,8 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("“El fracaso es éxito si aprendemos de él.”");
+            MessageBox.Show(" “El fracaso es éxito si aprendemos de él.” ");
+
         }
     }
 }
